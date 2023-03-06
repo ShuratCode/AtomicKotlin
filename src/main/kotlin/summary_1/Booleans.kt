@@ -15,3 +15,11 @@ fun main() {
     val isClosed = hour < opens || hour > closes
     println("Closed: $isClosed")
 }
+
+/*Output:
+Operating hours: 9 - 20
+Current time: 6
+Open: false
+Not open: true
+Closed: true
+*/
