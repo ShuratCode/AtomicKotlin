@@ -10,3 +10,8 @@ fun main() {
     println(cube(3))
     println(bang("pop"))
 }
+
+/*Output:
+* 27
+* pop!
+*/
