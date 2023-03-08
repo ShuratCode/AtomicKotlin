@@ -1,4 +1,4 @@
-package summary_1
+package summary_1.examples
 
 fun main() {
     val d1: Double = 3.0 + 2 / 5

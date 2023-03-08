@@ -1,4 +1,4 @@
-package summary_1
+package summary_1.examples
 
 fun main() {
     val result = if (99 < 100) 4 else 42

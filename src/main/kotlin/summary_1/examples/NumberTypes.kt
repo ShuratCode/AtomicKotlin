@@ -1,4 +1,4 @@
-package summary_1
+package summary_1.examples
 
 fun main() {
     val n = 1000 // Int

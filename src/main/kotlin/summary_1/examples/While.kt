@@ -1,4 +1,4 @@
-package summary_1
+package summary_1.examples
 
 fun testCondition(i: Int) = i < 100
 

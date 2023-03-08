@@ -1,4 +1,4 @@
-package summary_1
+package summary_1.examples
 
 fun json(q: String, a: Int) = """{
     "question: "$q",

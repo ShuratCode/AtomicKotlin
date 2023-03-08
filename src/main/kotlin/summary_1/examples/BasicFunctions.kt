@@ -1,4 +1,4 @@
-package summary_1
+package summary_1.examples
 
 fun cube(x: Int): Int {
     return x * x * x

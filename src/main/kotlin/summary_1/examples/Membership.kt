@@ -1,4 +1,4 @@
-package summary_1
+package summary_1.examples
 
 fun inNumRange(n: Int) = n in 50..100
 

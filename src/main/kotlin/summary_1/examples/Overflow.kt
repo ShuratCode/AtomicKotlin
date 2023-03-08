@@ -1,4 +1,4 @@
-package summary_1
+package summary_1.examples
 
 fun main() {
     println(Int.MAX_VALUE + 1)
